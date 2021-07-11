@@ -16,7 +16,7 @@ __System requirements__
  - Microsoft __Windows 8, 8.1, 10 (64bit)__
  - Supported __Windows__ operating systems that have been tested: __8, 8.1, 10 (64bit)__
  
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://github.com/appath/SublimeTextPortable/blob/main/%23/github_sublimetext.png?raw=true"></p>
 
 
 __This file was received from another computer and may have been blocked to protect the computer.__
