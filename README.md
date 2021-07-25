@@ -18,19 +18,6 @@ __System requirements__
  
 <p align="center"><img src="https://github.com/appath/SublimeTextPortable/blob/main/%23/github_sublimetext.png?raw=true"></p>
 
-
-__This file was received from another computer and may have been blocked to protect the computer.__
-
-Run the cmd command line and go to the root of where the executable file SublimeTextPortable_v4.1.0.7.paf.exe is located
-
-CMD (Command Windows)
-
-__`C:/>SublimeTextPortable_v4.1.0.7.paf.exe -s -d`__
-
-__`Syntax: SublimeTextPortable_v4.1.0.7.paf.exe [-s] [-d]`__
-
-Flags __`-s`__ Recursively traversing subdirectories and __`-d`__ Deleting streams.
-
 There are no viruses as it has been tested more than once in different laboratories, for example, Kaspersky.
 
 <img width="100" src="%23/github_win8.png"><img width="100" src="%23/github_win81.png"><img width="100" src="%23/github_win10.png">
