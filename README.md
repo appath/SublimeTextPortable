@@ -6,7 +6,7 @@ __You can download the latest Portable version__
 
 [![Release](https://img.shields.io/github/v/release/appath/SublimeTextPortable?label=Stable&style=flat-square)](https://github.com/appath/SublimeTextPortable/releases)
 
-[Version 4.1.2.1](https://www.sublimetext.com/blog/articles/2021/05) is now available! Read about the new features and fixes from 26 October 2021.
+[Version 4.1.2.6](https://www.sublimetext.com/blog/articles/2021/05) is now available! Read about the new features and fixes from 21 December 2021.
 
 The rest of the downloads are available in the [release-section](https://github.com/appath/SublimeTextPortable/releases).
 
